@@ -1,0 +1,6 @@
+{
+  "name": "FnO GapBoard",
+  "description": "Live NSE F&O Gapboard CE/PE & Multi-Timeframe RSI/RVOL Momentum Scanner with 10-second auto-refresh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">FnO GapBoard</string>
+    <string name="cd_refresh_now">Refresh scan now</string>
+    <string name="cd_toggle_autorefresh">Toggle 10 second auto refresh</string>
+    <string name="cd_filter_settings">Scanner criteria settings</string>
+    <string name="cd_manage_watchlist">Manage F and O watchlist</string>
+    <string name="cd_sort_column">Sort by column</string>
+    <string name="cd_close_sheet">Close panel</string>
+    <string name="cd_remove_symbol">Remove symbol</string>
+    <string name="cd_toggle_sound">Toggle sound alerts</string>
+    <string name="cd_dismiss_r3_banner">Dismiss pivot alert notification</string>
+    <string name="cd_open_alert_center">Open live pivot and RSI alert system</string>
+    <string name="cd_add_to_watchlist">Save stock to watchlist</string>
+    <string name="cd_remove_from_watchlist">Remove stock from watchlist</string>
+    <string name="cd_nav_gapboard">Switch to Intraday GapBoard page</string>
+    <string name="cd_nav_positional">Switch to Positional Swing Desk page</string>
+    <string name="cd_sync_positional_nse">Sync NSE open interest and 5 day delivery data</string>
+</resources>
